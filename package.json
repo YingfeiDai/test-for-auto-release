@@ -9,6 +9,10 @@
     "release": "semantic-release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YingfeiDai/test-for-auto-release.git"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",

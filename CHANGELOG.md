@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.0...v1.0.1) (2024-07-02)
+
+
+### Bug Fixes
+
+* **action:** github username ([e75365f](https://github.com/YingfeiDai/test-for-auto-release/commit/e75365f65b7ad2047faf31ce06f735a26f8cd684))
+
 # 1.0.0 (2024-07-02)
 
 

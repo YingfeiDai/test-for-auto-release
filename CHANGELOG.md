@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.1...v1.0.2) (2024-07-02)
+
+
+### Bug Fixes
+
+* **action:** .npmrc setup github token ([07ff036](https://github.com/YingfeiDai/test-for-auto-release/commit/07ff036bf6fa469a91c4d6eb15ffe5c1d49ae0d0))
+
 ## [1.0.1](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.0...v1.0.1) (2024-07-02)
 
 

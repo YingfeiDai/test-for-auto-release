@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/yingfeidai/test-for-auto-release/compare/v1.0.4...v1.0.5) (2024-07-02)
+
+
+### Bug Fixes
+
+* **config:** fix repository git url config ([c6cb4bb](https://github.com/yingfeidai/test-for-auto-release/commit/c6cb4bbc6a3c6041377ef6647193302167e42cb4))
+
 ## [1.0.4](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.3...v1.0.4) (2024-07-02)
 
 

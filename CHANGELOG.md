@@ -1,0 +1,18 @@
+# 1.0.0 (2024-07-02)
+
+
+### Bug Fixes
+
+* **action:** install pnpm command ([e7e9f55](https://github.com/YingfeiDai/test-for-auto-release/commit/e7e9f559f7fb1832baef410e18092ef9793107bd))
+* **action:** node version up to 18 ([e2f6953](https://github.com/YingfeiDai/test-for-auto-release/commit/e2f695340e7dc3879713bfb696c69f43b1ffe60d))
+* **action:** node version up to 20 ([258adf8](https://github.com/YingfeiDai/test-for-auto-release/commit/258adf841938d2bb8c767b5cc63e45a679d3c61e))
+* **action:** rename to GH_TOKEN ([759e142](https://github.com/YingfeiDai/test-for-auto-release/commit/759e142881da7e4a429be7cfd4c46b8716a8bb22))
+* **action:** setup .npmrc ([e08087d](https://github.com/YingfeiDai/test-for-auto-release/commit/e08087de496ded6bd1da077ba26254092b9218f4))
+* **action:** use persist-credentials: false ([5eb44fa](https://github.com/YingfeiDai/test-for-auto-release/commit/5eb44fade4e9a76ce0fcd49f52729eff4920c10d))
+
+
+### Features
+
+* **config:** add publish config to package.json ([fe599cb](https://github.com/YingfeiDai/test-for-auto-release/commit/fe599cbe6c76605c3640f2cd6b16ccbdefc726d2))
+* **config:** add repository config to package.json ([0011cd1](https://github.com/YingfeiDai/test-for-auto-release/commit/0011cd13359b51305249fe2fe480f296210a6676))
+* **init:** init project ([905e3c3](https://github.com/YingfeiDai/test-for-auto-release/commit/905e3c36273c51f5bcebc8957ed06eef6aa9cf79))

@@ -30,6 +30,11 @@ jobs:
       - name: Run build
         run: pnpm build
 
+      - name: Configure npm for publishing to GitHub Packages
+        run: |
+          echo "@yingfeidai:registry=https://npm.pkg.github.com" >> ~/.npmrc
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> ~/.npmrc
+
       - name: Setup Semantic Release
         run: npx semantic-release
         env:

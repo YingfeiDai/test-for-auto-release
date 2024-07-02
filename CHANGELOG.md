@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/yingfeidai/test-for-auto-release/compare/v1.0.5...v1.0.6) (2024-07-02)
+
+
+### Bug Fixes
+
+* **config:** fix conflict ([ff80301](https://github.com/yingfeidai/test-for-auto-release/commit/ff803015040e7d7cedafe125110444cb81345aa6))
+* **config:** fix pkg name ([67fa531](https://github.com/yingfeidai/test-for-auto-release/commit/67fa531ede8ef620613482f7fad7bc90724ddfc9))
+
 ## [1.0.5](https://github.com/yingfeidai/test-for-auto-release/compare/v1.0.4...v1.0.5) (2024-07-02)
 
 

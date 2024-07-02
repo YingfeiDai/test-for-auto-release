@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.2...v1.0.3) (2024-07-02)
+
+
+### Bug Fixes
+
+* **action:** add debug mode try to release ([3165c92](https://github.com/YingfeiDai/test-for-auto-release/commit/3165c92a35b357ef645e157b5c8b41fc302f510e))
+
 ## [1.0.2](https://github.com/YingfeiDai/test-for-auto-release/compare/v1.0.1...v1.0.2) (2024-07-02)
 
 

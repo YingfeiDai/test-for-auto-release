@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/yingfeidai/test-for-auto-release/compare/v1.0.6...v1.0.7) (2024-07-02)
+
+
+### Bug Fixes
+
+* **action:** try to release ([93c2636](https://github.com/yingfeidai/test-for-auto-release/commit/93c2636a2a6a9e58fef51d749ad091e1e9d63e90))
+
 ## [1.0.6](https://github.com/yingfeidai/test-for-auto-release/compare/v1.0.5...v1.0.6) (2024-07-02)
 
 
